@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ------------
   
-#### Flutter Version Used : 1.22.4  
+#### Flutter Version Used : 3.0.5  
 #### Desing Credit : By  [Afsar Hossen](https://www.linkedin.com/in/afsar-shuvo/)  
 #### Desing Files on Figma : [Online Groceries App UI](https://www.figma.com/community/file/882645007956337261)  
   
