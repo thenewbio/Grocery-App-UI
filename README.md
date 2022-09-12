@@ -38,5 +38,4 @@ samples, guidance on mobile development, and a full API reference.
   <img src="screens/10.jpg" width="200" />
   <img src="screens/11.jpg" width="200" />
   <img src="screens/12.jpg" width="200" />
-  <img src="screens/13.jpg" width="200" />
 </p>
